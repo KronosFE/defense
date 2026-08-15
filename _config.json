@@ -1,0 +1,32 @@
+{
+  "route": "defense",
+  "title": "Kronos for Defense",
+  "short": "Defense",
+  "kicker": "MILITARY & DEFENSE",
+  "headline": "Sovereign energy, at the edge.",
+  "tagline": "How Kronos serves defense — resilient sovereign power from the burner (Aegis) and strategic isotopes from the breeder (tritium, helium-3, 14 MeV neutrons). Public-only; honest about design stage.",
+  "hero_clip": "a4-three-machines.mp4",
+  "cats": {
+    "resilient-sovereign-power": [
+      "Resilient Sovereign Power",
+      "Aegis power for bases and installations, untethered from fuel convoys."
+    ],
+    "strategic-isotopes-for-defense": [
+      "Strategic Isotopes for Defense",
+      "Tritium for the stockpile, helium-3 for detection, 14 MeV neutrons for materials."
+    ],
+    "energy-security-logistics": [
+      "Energy Security & Logistics",
+      "Cutting the fuel-logistics tail; energy independence."
+    ],
+    "national-security-applications": [
+      "National-Security Applications",
+      "Neutron and isotope services for national security."
+    ],
+    "readiness-standards": [
+      "Readiness, Standards & Dual-Use",
+      "Honest gates, standards, and a responsible dual-use posture."
+    ]
+  },
+  "hero_blueprint": "breeder"
+}
