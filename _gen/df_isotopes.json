@@ -260,7 +260,7 @@
    ],
    [
     "Fusion power",
-    "88.7 MW"
+    "85.0 MW"
    ]
   ]
  },
@@ -2410,7 +2410,7 @@
    ],
    [
     "p",
-    "The breeder (Hyperion) is a deuterium-tritium spherical tokamak producing <b>88.7 MW</b> of fusion power in the design set. Alongside tritium and helium-3, its 14 MeV neutron flux is itself a strategic output: a domestic source of fusion-spectrum neutrons for materials qualification and testing."
+    "The breeder (Hyperion) is a deuterium-tritium spherical tokamak producing <b>85.0 MW</b> of fusion power in the design set. Alongside tritium and helium-3, its 14 MeV neutron flux is itself a strategic output: a domestic source of fusion-spectrum neutrons for materials qualification and testing."
    ],
    [
     "h2",
@@ -2469,7 +2469,7 @@
    ],
    [
     "Breeder power",
-    "88.7 MW"
+    "85.0 MW"
    ],
    [
     "Use class",
@@ -3530,7 +3530,7 @@
    ],
    [
     "Neutrons",
-    "14 MeV, 88.7 MW machine"
+    "14 MeV, 85.0 MW machine"
    ],
    [
     "Status",
@@ -3736,7 +3736,7 @@
    ],
    [
     "p",
-    "The platform is a design and simulation study today. The machine's parameters — 88.7 MW fusion power, 9.86 MA plasma current, and its output classes — are computed targets. FOAK operation from ~2030 is intended to begin turning the platform concept into delivered supply."
+    "The platform is a design and simulation study today. The machine's parameters — 85.0 MW fusion power, 9.66 MA plasma current, and its output classes — are computed targets. FOAK operation from ~2030 is intended to begin turning the platform concept into delivered supply."
    ]
   ],
   "related": [
@@ -3762,11 +3762,11 @@
    ],
    [
     "Fusion power",
-    "88.7 MW"
+    "85.0 MW"
    ],
    [
     "Plasma current",
-    "9.86 MA"
+    "9.66 MA"
    ],
    [
     "Outputs",
